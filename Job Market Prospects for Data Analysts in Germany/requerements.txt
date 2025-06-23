@@ -1,1 +1,13 @@
-
+pandas
+numpy
+rapidfuzz
+deep_translator
+json
+re
+fuzzywuzzy
+nltk
+matplotlib
+seaborn
+sklearn
+statsmodels
+scipy
