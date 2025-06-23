@@ -2,7 +2,7 @@ A coworking space owner reached out with a goal: to understand which clients bri
 
 ---
 
-## ⚡️ What was did:
+## ⚡️ What we did:
 
 ・Cleaned and preprocessed booking data  
 ・Performed full RFM analysis (Recency, Frequency, Monetary)  
