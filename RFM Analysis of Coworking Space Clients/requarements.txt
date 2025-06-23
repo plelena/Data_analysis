@@ -1,1 +1,8 @@
+pandas
+numpy
+mysql
+os
+dotenv
+matplotlib
+seaborn
 
