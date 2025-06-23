@@ -10,8 +10,9 @@ To investigate and analyze the prospects of the job market for data analysts in 
 - Identify key skills and qualifications
 - Forecast future workforce demands
 
-#### __`Data Sources`__
+#### __`Data Sources and Technology`__
 
 - Job Portals: LinkedIn, Indeed, StepStone, XING. (on January 2025)
 - Statistical Data: Federal Employment Agency of Germany (Bundesagentur für Arbeit).
 - APIs and Web Scraping: Using APIs from job portals and web scraping to collect data.
+- Python
