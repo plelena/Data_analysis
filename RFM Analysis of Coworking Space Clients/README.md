@@ -2,7 +2,7 @@ A coworking space owner reached out with a goal: to understand which clients bri
 
 ---
 
-## ⚡️ What we did:
+#### ⚡️ What we did:
 
 ・Cleaned and preprocessed booking data  
 ・Performed full RFM analysis (Recency, Frequency, Monetary)  
@@ -13,7 +13,7 @@ A coworking space owner reached out with a goal: to understand which clients bri
 
 ---
 
-## 🔍 Tools & Stack:
+#### 🔍 Tools & Stack:
 
 - MySQL
 - Python (Pandas, Seaborn, Matplotlib)  
@@ -21,7 +21,7 @@ A coworking space owner reached out with a goal: to understand which clients bri
 
 ---
 
-## 📈 What's included in the analysis:
+#### 📈 What's included in the analysis:
 
 - 📆 **Recency** – days since last booking  
 - 🔁 **Frequency** – how often the client booked  
@@ -31,7 +31,7 @@ A coworking space owner reached out with a goal: to understand which clients bri
 
 ---
 
-## 🔥 Result:
+#### 🔥 Result:
 
 - Identified top 12% "champions" — high-value, frequent clients  
 - Found 37% of clients at risk or already inactive — prime for reactivation campaigns  
