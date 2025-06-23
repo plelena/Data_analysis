@@ -4,7 +4,7 @@ A coworking space owner reached out with a goal: to understand which clients bri
 
 #### ⚡️ What we did:
 
-・Cleaned and preprocessed booking data 
+・Cleaned and preprocessed booking data  
 ・Рerformed cohort analysis to understand long-term customer retention patterns
 ・Performed full RFM analysis (Recency, Frequency, Monetary)  
 ・Segmented clients into behavioral groups (Champions, At Risk, Lapsed, Potential Loyalists, etc.)  
