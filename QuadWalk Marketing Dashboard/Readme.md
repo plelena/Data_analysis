@@ -46,6 +46,7 @@ The Marketing Dashboard was designed to provide:
 - **Techniques:** FIXED LOD expressions, custom date filters, dynamic KPI calculations, dual-axis charts
 
 ---
+![QuadWalk Marketing Dashboard Preview](Marketing dash.png)  
 
 ## 📊 Dashboard Preview
 🔗 **Live Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/olena.zavalna/viz/Shoes_sales/Marketingdash)
