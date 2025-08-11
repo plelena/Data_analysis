@@ -1,11 +1,11 @@
 # QuadWalk Marketing Dashboard 
 <h1>
   <img src="Quadwalk logo_v3 ring.png" alt="QuadWalk Logo" width="80" style="vertical-align: middle; margin-right: 10px;" />
-</h1>
+
 
 **QuadWalk** is a global footwear brand operating in the United States, Canada, the United Kingdom, and Germany.  
 This interactive **marketing dashboard** in Tableau consolidates sales, discounts, and product performance data, enabling the marketing team to monitor KPIs, identify trends, and optimize promotional strategies in real time.
-
+</h1>
 ---
 
 ## 📌 Business Case
