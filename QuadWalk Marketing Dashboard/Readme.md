@@ -1,4 +1,4 @@
-# QuadWalk Marketing Dashboard
+# QuadWalk Marketing Dashboard  ![Logo](<Quadwalk logo_v3 ring.png>)
 
 **QuadWalk** is a global footwear brand operating in the United States, Canada, the United Kingdom, and Germany.  
 This interactive **marketing dashboard** in Tableau consolidates sales, discounts, and product performance data, enabling the marketing team to monitor KPIs, identify trends, and optimize promotional strategies in real time.
@@ -31,6 +31,8 @@ The Marketing Dashboard was designed to provide:
 - **Sales Trends:** Monthly performance charts with the ability to filter by country, gender, and store.
 - **Discount Analysis:** Visualization of discounted vs. full-price sales to evaluate promotion impact.
 - **Customer Preferences:** Breakdown of sales by gender and popular shoe sizes for targeted marketing.
+- 
+![QuadWalk Marketing Dashboard Preview](<Marketing dash.png>)  
 
 ### Business Impact
 - Reduced campaign performance analysis time from **4–5 hours** to just a few minutes.
@@ -46,7 +48,7 @@ The Marketing Dashboard was designed to provide:
 - **Techniques:** FIXED LOD expressions, custom date filters, dynamic KPI calculations, dual-axis charts
 
 ---
-![QuadWalk Marketing Dashboard Preview](<Marketing dash.png>)  
+ 
 
 ## 📊 Dashboard Preview
 🔗 **Live Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/olena.zavalna/viz/Shoes_sales/Marketingdash)
