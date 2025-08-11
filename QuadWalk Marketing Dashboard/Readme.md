@@ -1,7 +1,6 @@
 # QuadWalk Marketing Dashboard 
 <h1>
   <img src="Quadwalk logo_v3 ring.png" alt="QuadWalk Logo" width="40" style="vertical-align: middle; margin-right: 10px;" />
-  QuadWalk Marketing Dashboard
 </h1>
 
 **QuadWalk** is a global footwear brand operating in the United States, Canada, the United Kingdom, and Germany.  
