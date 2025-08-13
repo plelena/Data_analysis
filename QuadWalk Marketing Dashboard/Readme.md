@@ -35,7 +35,8 @@ The Marketing Dashboard was designed to provide:
 - **Discount Analysis:** Visualization of discounted vs. full-price sales to evaluate promotion impact.
 - **Customer Preferences:** Breakdown of sales by gender and popular shoe sizes for targeted marketing.
 - 
-![QuadWalk Marketing Dashboard Preview](<Marketing dash.png>)  
+![QuadWalk Marketing Dashboard Preview](<Marketing dash.png>)
+![QuadWalk Marketing Dashboard Preview](<Top performers.png>) 
 
 ### Business Impact
 - Reduced campaign performance analysis time from **4–5 hours** to just a few minutes.
