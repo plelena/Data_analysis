@@ -9,6 +9,7 @@ An interactive dashboard tracking the educational impact of a youth tutoring non
 ## Screenshots
 
 **Cockpit — overview across all surveys**
+
 ![Dashboard cockpit: KPI tiles for participants, schools and cities with trend sparklines, a ranked poll table, and satisfaction gauges by group](images/dashboard-cockpit.png)
 
 **Younger Students page — question-level drill-down**
