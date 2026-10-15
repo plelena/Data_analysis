@@ -34,7 +34,7 @@ The Marketing Dashboard was designed to provide:
 - **Sales Trends:** Monthly performance charts with the ability to filter by country, gender, and store.
 - **Discount Analysis:** Visualization of discounted vs. full-price sales to evaluate promotion impact.
 - **Customer Preferences:** Breakdown of sales by gender and popular shoe sizes for targeted marketing.
-- 
+  
 ![QuadWalk Marketing Dashboard Preview](<Marketing dash.png>)
 ![QuadWalk Marketing Dashboard Preview](<Top performers.png>) 
 
