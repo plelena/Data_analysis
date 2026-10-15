@@ -18,7 +18,6 @@ An interactive dashboard tracking the educational impact of a youth tutoring non
 **Younger Students page — question-level drill-down**
 ![Younger Students page: Yes/No and Scale question tables with participation and consent rates, cross-filtering to a stacked bar chart showing answer distributions](<images/dashboard-students.png>)
 
----
 
 ## Overview
 
