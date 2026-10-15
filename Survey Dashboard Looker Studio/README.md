@@ -6,7 +6,6 @@ An interactive dashboard tracking the educational impact of a youth tutoring non
   
 [![View Live Dashboard](https://img.shields.io/badge/Looker%20Studio-View%20Live%20Dashboard-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)](https://datastudio.google.com/s/l-1A0yx2OA4)
 
----
 
 ---
 
